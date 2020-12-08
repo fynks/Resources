@@ -1,5 +1,5 @@
 <h1 align="center">:package: Resources </h1>
-  <p align="center"> Place of different resources<br>
+  <p align="center"> :arrow_forward: Place of different resources<br>
 <sub>
     Coded with 💙 by Aliglelo.
   </sub>
