@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Repo-Resources-yellowgreen?style=flat-square&logo=github" alt="Rep-Resources" />
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/Author-Fynks-lightblue?style=flat-square&logo=atom" alt="Author-Aliglelo" />
+        <img src="https://img.shields.io/badge/Author-Fynks-lightblue?style=flat-square&logo=atom" alt="Author-Fynks" />
       </a>
 </p>
 
